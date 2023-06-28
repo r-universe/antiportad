@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "hrcomprisk"]
 	path = hrcomprisk
 	url = https://github.com/antiportad/hrcomprisk
-	shallow = true
-	registered = true
